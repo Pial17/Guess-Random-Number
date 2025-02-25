@@ -38,7 +38,7 @@ A fun and challenging C++ game where the player tries to guess a randomly genera
 ---
 
 ## Game Screenshot
-![Image](https://github.com/user-attachments/assets/04f40006-6c6c-4ed7-9bcb-756bde8f1b2a)
+![Image](https://github.com/user-attachments/assets/50a0ac46-4def-46e4-a901-e3ec97f87de5)
 
 ## 🔧 Installation
 Follow these steps to set up and run the game on your local machine:
