@@ -48,3 +48,4 @@ Follow these steps to set up and run the game on your local machine:
 ```sh
 git clone https://github.com/Pial17/Guess-Random-Number.git
 cd Guess-Random-Number
+![Screenshot (226)](https://github.com/user-attachments/assets/e57a73b4-6a44-4559-8691-fe93e5938605)
