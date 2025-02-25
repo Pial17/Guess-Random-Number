@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1740411639 source:c:\users\pialr\onedrive\desktop\c++\guess_random_number\guess_number.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1740409879 source:c:\users\pialr\onedrive\desktop\c++\guess_random_number\aaa.cpp
+
