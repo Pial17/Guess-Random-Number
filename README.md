@@ -37,6 +37,9 @@ A fun and challenging C++ game where the player tries to guess a randomly genera
 
 ---
 
+## Game Screenshot
+![Image](https://github.com/user-attachments/assets/04f40006-6c6c-4ed7-9bcb-756bde8f1b2a)
+
 ## 🔧 Installation
 Follow these steps to set up and run the game on your local machine:
 
@@ -48,4 +51,4 @@ Follow these steps to set up and run the game on your local machine:
 ```sh
 git clone https://github.com/Pial17/Guess-Random-Number.git
 cd Guess-Random-Number
-![Image](https://github.com/user-attachments/assets/04f40006-6c6c-4ed7-9bcb-756bde8f1b2a)
+
